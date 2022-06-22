@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1571427754 source:e:\programe\ancheta alimentara cu transformari\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<algorithm>
+	<ctime>
+
+1571427754 source:c:\users\gabriel\documents\ancheta alimentara cu transformari\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<algorithm>
+	<ctime>
+
